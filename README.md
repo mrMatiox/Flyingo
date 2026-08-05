@@ -1,4 +1,4 @@
 # Flyingo
 Download : Flyingo / Play.exe
 Controle Press "Space" pres fast 
-I make my first game in my life and I hope to enjoy this game he is like game bird but future I we add something new multiplayer but now is V1
+I've created my first game. I hope you like it. This game is inspired by bird. I'll add new features in the future, such as a multiplayer mode, but for now, this is the first version.
